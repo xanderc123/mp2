@@ -1,6 +1,16 @@
 # MP 2: Front-end App
 ### Due: Tuesday, Oct 6, 2026, 11:59PM CT
 
+## Student Project
+
+This repository contains **Open Gallery**, a responsive React + TypeScript application that explores paintings from the Art Institute of Chicago API.
+
+- See [RUBRIC.md](./RUBRIC.md) for the point-by-point implementation checklist and verification results.
+- See [LLM_USAGE.md](./LLM_USAGE.md) for the required disclosure of AI-assisted development.
+- Artwork metadata and images are provided by the [Art Institute of Chicago API](https://api.artic.edu/docs/).
+- The interface uses React, React Router, Axios, Vite, and the Google Fonts DM Sans and Newsreader families.
+
+
 ## Table of Contents
 1. [Assignment](#assignment)
 2. [Grading Breakdown](#grading-breakdown)

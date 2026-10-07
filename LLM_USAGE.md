@@ -13,6 +13,10 @@ It assisted with:
 
 The submitted source code was validated with TypeScript, ESLint, unit tests, a production Vite build, and browser interaction checks. The complete chat history for this development session must also be submitted wherever the course submission form requests LLM chatlogs.
 
+## LLM conversation
+
+- [Gemini conversation](https://share.gemini.google/Cm0P8SseRV4G)
+
 ## Referenced resources
 
 - [MP2 assignment repository](https://github.com/cs409-fa25/mp2)
